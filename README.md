@@ -9,7 +9,7 @@ This project analyzes a year's worth of pizza outlet sales data stored in 4 CSV 
 **_Disclaimer_**: _All datasets and reports do not represent any company, institution or country, but just a dummy dataset to demonstrate capabilities of Power BI._
 
 ## Table of Content
-- [Project Overview](#project-overview)
+- Project Overview
 - CSV Files
 - Questions
 - Answers

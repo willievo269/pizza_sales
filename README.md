@@ -63,3 +63,30 @@ The database consists of the following tables:
 6. Top 5 Best Sellers by Total Pizzas Sold
 7. Bottom 5 Worst Sellers by Total Pizzas Sold
 
+## Results
+### KPIs
+1. The total revenue for the year was $817,860.
+
+2. The average order value was $38.31.
+
+3. A total of 50,000 pizzas were sold.
+
+4. A total of 21,000 orders were placed.
+
+5. The average number of pizzas per order was 2.
+
+ANSWER TO QUESTIONS
+1. The busiest days were Thursday (3239 orders), Friday (3538 orders), and Saturday (3158 orders). The highest sales were recorded on Friday.
+
+2. Customers typically placed the most orders between 12pm to 1pm and 5pm to 7pm.
+
+3. Classic pizza had the highest percentage of sales (26.91%), followed by Supreme (25.46%), Chicken (23.96%), and Veggie (23.68%).
+
+4. Large pizzas had the highest sales (45.89%), followed by medium (30.49%), and then small (21.77%). XL and XXL pizzas only accounted for 1.72% and 0.12% of sales, respectively.
+
+5. Classic Pizza sold the most (14,888 pizzas), followed by Supreme (11,987 pizzas), Veggie (11,649 pizzas), and Chicken (11,050 pizzas).
+
+6. The top 5 best sellers were the Classic Deluxe (2453 pizzas), Barbecue Chicken (2432 pizzas), Hawaiian (2422 pizzas), Peperoni (2418 pizzas), and Thai Chicken (2371 pizzas).
+
+7. The bottom 5 worst sellers were Brie Carre (490 pizzas), Mediterranean (934 pizzas), Calabrese (937 pizzas), Spinach Supreme (950 pizzas), and Soppressata (961 pizzas).
+
